@@ -1,0 +1,59 @@
+div.sergey {
+  text-align: center;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  width: 300px;
+  border: 3px solid dimgrey;
+  padding: 3px;
+  margin: auto;
+}
+
+div.brin2 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border: 6px solid black;
+}
+
+.photo2 {
+  flex: 33.33%;
+  width: 185px;
+  height: 120px;
+  border: 6px solid black;
+  margin: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row {
+  display: inline-block;
+}
+
+div.link {
+  font-size: 18px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.center {
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  width: 50%;
+}
+
+html {
+  border: 10px solid dimgrey;
+  background-color: lightgray;
+}
